@@ -5,7 +5,7 @@ select * from netflix;
 
 -- handling foreign characters
 
-/*create TABLE [dbo].[netflix_raw](
+/*create TABLE [dbo].[netflix](
 	[show_id] [varchar](10) primary key,
 	[type] [varchar](10) NULL,
 	[title] [nvarchar](200) NULL,
