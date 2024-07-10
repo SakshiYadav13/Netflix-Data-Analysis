@@ -5,14 +5,14 @@ This project analyzes Netflix data to uncover viewer behaviors and content trend
 
 ## Objectives
 
-### Improve data quality by handling foreign characters, removing duplicates, and converting data types.
-### Enhance data structure through normalization and creating separate tables for multi-value columns.
-### Populate missing values to ensure data completeness.
-### Perform in-depth data analysis to extract valuable insights.
+#### Improve data quality by handling foreign characters, removing duplicates, and converting data types.
+#### Enhance data structure through normalization and creating separate tables for multi-value columns.
+#### Populate missing values to ensure data completeness.
+#### Perform in-depth data analysis to extract valuable insights.
 
 ## Scope
 
-### The project encompasses data collection, cleaning, preparation, storage, and analysis using SQL. It aims to address key business questions related to content production, audience preferences, and operational efficiency.
+#### The project encompasses data collection, cleaning, preparation, storage, and analysis using SQL. It aims to address key business questions related to content production, audience preferences, and operational efficiency.
 
 ## Business Impact
 ### Enhanced Content Relevance
