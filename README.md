@@ -3,6 +3,7 @@ This project analyzes Netflix data to uncover viewer behaviors and content trend
 
 ![Netflix Data Analysis](https://github.com/SakshiYadav13/Netflix-Data-Analysis/assets/88963135/2088d860-f69a-4407-9de1-2c893f763f5a)
 
+
 ## Objectives
 
 #### Improve data quality by handling foreign characters, removing duplicates, and converting data types.
@@ -10,9 +11,11 @@ This project analyzes Netflix data to uncover viewer behaviors and content trend
 #### Populate missing values to ensure data completeness.
 #### Perform in-depth data analysis to extract valuable insights.
 
+
 ## Scope
 
 #### The project encompasses data collection, cleaning, preparation, storage, and analysis using SQL. It aims to address key business questions related to content production, audience preferences, and operational efficiency.
+
 
 ## Business Impact
 ### Enhanced Content Relevance
