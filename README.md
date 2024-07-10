@@ -1,6 +1,10 @@
 # Netflix-Data-Analysis
 This project analyzes Netflix data to uncover viewer behaviors and content trends, aiming to optimize content strategies and enhance user experience.
 
+Follow the below link for the complete report:
+
+https://mavenanalytics.io/project/17001
+
 ![Netflix Data Analysis](https://github.com/SakshiYadav13/Netflix-Data-Analysis/assets/88963135/2088d860-f69a-4407-9de1-2c893f763f5a)
 
 
